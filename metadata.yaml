@@ -1,0 +1,33 @@
+_repo: Bazsarozsak_66118
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Tömörkény, István
+    aliases:
+    - Tomorkeny, Istvan
+    - István Tömörkény
+    birthdate: 1866
+    deathdate: 1917
+    gutenberg_agent_id: '32758'
+    url: http://www.gutenberg.org/2009/agents/32758
+    wikipedia: https://hu.wikipedia.org/wiki/T%C3%B6m%C3%B6rk%C3%A9ny_Istv%C3%A1n
+description: ''
+gutenberg_issued: '2021-08-23'
+identifiers:
+  gutenberg: '66118'
+language: hu
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Hungarian fiction -- 20th century'
+- !lcsh 'Short stories, Hungarian'
+- GITenberg
+tableOfContents: A világító állat és a vadrózsabokor -- Szirtesek a partok -- Rágyújtás
+  -- Juhászok meg bürgék -- Vera elvitele -- Utszélen -- Könyvtári divatok -- Uj vendég
+  -- Hajósok -- Az ügy elintéződött -- Mezei dolgok -- Házrul-házra -- Emlékezés --
+  Statisztika a falun -- Parti füzesek -- A bujdosó -- Süliék nyujtanak -- Gugorázás
+  -- Fekete emberek a föld alatt.
+title: Bazsarózsák
+url: http://www.gutenberg.org/ebooks/66118
